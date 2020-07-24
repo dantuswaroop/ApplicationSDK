@@ -1,0 +1,29 @@
+
+u
+java:S1450j"ZRemove the "frameLayout" field and declare it as a local variable in the relevant methods.(Éàú–úÿÿÿÿ
+n
+java:S3252ø"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(›Ýîà
+?
+java:S1604¯"(Make this anonymous inner class a lambda(“Ñù´
+e
+java:S1117¿"IRename "onTapArPlaneListener" which hides the field declared at line 110.(ôÜŠ¤ùÿÿÿÿ
+a
+java:S1301Ú"KReplace this "switch" statement by "if" statements to increase readability.(û§Î
+n
+java:S3252ÿ"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(ã”³¬
+n
+java:S3252’"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(ã”³¬
+B
+java:S1612r",Replace this lambda with a method reference.(ÿžÞ¢
+p
+java:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤µõ¹
+?
+java:S1604Ÿ"(Make this anonymous inner class a lambda(Î¬¯”
+F
+java:S1066Â"/Merge this if statement with the enclosing one.(¿ŸÐ—
+e
+java:S1117³"IRename "transformationSystem" which hides the field declared at line 104.(´‘ãýþÿÿÿÿ
+F
+java:S5411·"*Use the primitive boolean expression here.(ÇÒœÉýÿÿÿÿ
+B
+java:S1068G"'Remove this unused "TAG" private field.( “Æ†üÿÿÿÿ

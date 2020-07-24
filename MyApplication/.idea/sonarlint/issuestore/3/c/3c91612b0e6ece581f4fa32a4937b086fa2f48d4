@@ -1,0 +1,19 @@
+
+1
+java:S3626°"Remove this redundant jump.(‹™²
+Y
+java:S1172‹"=Remove this unused method parameter "renderableInternalData".(ŠëÏüÿÿÿÿ
+7
+java:S3626‹"Remove this redundant jump.(ŠëÏüÿÿÿÿ
+H
+java:S1172ş",Remove this unused method parameter "force".(£ÜÜ¥ùÿÿÿÿ
+i
+java:S1128"NRemove this unused import 'com.google.android.filament.gltfio.ResourceLoader'.(„âÇşÿÿÿÿ
+Q
+java:S1117¼":Rename "entity" which hides the field declared at line 69.(Çÿì›
+E
+java:S1128""/Remove this unused import 'java.nio.IntBuffer'.(Â†›’
+m
+java:S3776t"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÒÀğ‚şÿÿÿÿ
+7
+java:S3626ş"Remove this redundant jump.(£ÜÜ¥ùÿÿÿÿ

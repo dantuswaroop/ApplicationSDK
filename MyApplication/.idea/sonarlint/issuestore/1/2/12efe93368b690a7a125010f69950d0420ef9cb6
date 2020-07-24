@@ -1,0 +1,18 @@
+
+E
+java:S1066y"/Merge this if statement with the enclosing one.(¯ÿÿô
+u	java:S115Î"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(âºùùÿÿÿÿ
+p	java:S115Ï"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…ª²¾
+t	java:S115-"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥¹Ñˆûÿÿÿÿ
+u	java:S115Ó"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ç´»¶üÿÿÿÿ
+u	java:S115Ò"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»²ˆ¿ÿÿÿÿÿ
+p	java:S115Í"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÜŠï¦
+o	java:S131"YComplete cases by adding the missing enum constants or add a default case to this switch.(³ßÌ
+p	java:S115Ğ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„ ¾Ã
+Q	java:S110%"<This class has 9 parents which is greater than 5 authorized.(Ñİçİ
+o	java:S115Ì"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òÔ·
+u	java:S115Ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×ÃöÙıÿÿÿÿ
+t	java:S131×"YComplete cases by adding the missing enum constants or add a default case to this switch.(²‹›Øüÿÿÿÿ
+C
+java:S1172D"(Remove this unused method parameter "v".(®éúöşÿÿÿÿ
+p	java:S115Ë"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(î»¦

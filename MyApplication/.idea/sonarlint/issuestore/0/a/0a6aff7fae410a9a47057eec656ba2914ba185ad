@@ -1,0 +1,19 @@
+
+‡
+java:S1319Õ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(®¯ƒ¨
+‡
+java:S1319Â"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(©²¡ı
+B
+java:S1612Ş",Replace this lambda with a method reference.( Ó»
+N
+java:S1135ò"2Complete the task associated to this TODO comment.(î‚Æ£úÿÿÿÿ
+w
+java:S1450_"\Remove the "lightProbeSet" field and declare it as a local variable in the relevant methods.(ä©Åıÿÿÿÿ
+H
+java:S1135ˆ"2Complete the task associated to this TODO comment.(Ïü2
+{
+java:S1192›"dDefine a constant instead of duplicating this literal "Parameter \"motionEvent\" was null." 3 times.(Ñ›´ƒ
+‡
+java:S1319ˆ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(úš†
+I
+java:S1135å"2Complete the task associated to this TODO comment.(œ’šÅ

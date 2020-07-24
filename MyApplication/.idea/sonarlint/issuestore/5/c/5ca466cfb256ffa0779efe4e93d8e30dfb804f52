@@ -1,0 +1,11 @@
+
+t
+java:S1192/"^Define a constant instead of duplicating this literal "Parameter \"child\" was null." 5 times.(˜Ğ§İ
+y
+java:S1488‘"]Immediately return this expression instead of assigning it to the temporary variable "found".(£®š²øÿÿÿÿ
+_
+java:S1117\"DRename "iterableChildren" which hides the field declared at line 24.(­¯Óøÿÿÿÿ
+_
+java:S1117r"DRename "iterableChildren" which hides the field declared at line 24.(­¯Óøÿÿÿÿ
+N
+java:S1611’"2Remove the parentheses around the "node" parameter(ØÛ®¨øÿÿÿÿ

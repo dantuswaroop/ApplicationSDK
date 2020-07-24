@@ -1,0 +1,27 @@
+
+`
+java:S2259Ì"DA "NullPointerException" could be thrown; "result" is nullable here.(êÄãœøÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(Á Â*
+B
+java:S1172É"&Remove these unused method parameters.(’á©úÿÿÿÿ
+h
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(œã³
+A
+java:S1181ˆ"%Catch Exception instead of Throwable.(ğşûÿÿÿÿ
+J
+java:S1172".Remove this unused method parameter "context".(¢éëÑûÿÿÿÿ
+H
+java:S1135˜"2Complete the task associated to this TODO comment.(Á Â*
+7
+java:S3626"Remove this redundant jump.(¢éëÑûÿÿÿÿ
+=
+java:S1172ğ"&Remove these unused method parameters.(ÏÀé¸
+c
+java:S1117¥"GRename "inputStreamCreator" which hides the field declared at line 305.(ïÀ÷ùÿÿÿÿ
+F
+java:S5411Ó"*Use the primitive boolean expression here.(ÌäÕãúÿÿÿÿ
+[
+java:S1117“"?Rename "registryId" which hides the field declared at line 300.(¦„”Ìûÿÿÿÿ
+ƒ
+java:S1192"gDefine a constant instead of duplicating this literal "Unable to load Renderable registryId='" 3 times.(Ù·Òşÿÿÿÿ

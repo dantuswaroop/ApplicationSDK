@@ -1,0 +1,21 @@
+
+n
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(§ÙÓ÷þÿÿÿÿ
+X
+java:S1126Ï
+"AReplace this if-then-else statement by a single return statement.(£ÕÇä
+`
+java:S1117Ñ"DRename "tapTrackingData" which hides the field declared at line 222.(óú·éþÿÿÿÿ
+]
+java:S1117½"ARename "parentAsNode" which hides the field declared at line 158.(¿ý›·ýÿÿÿÿ
+N
+java:S2589—"7Remove this expression which always evaluates to "true"(…îôÛ
+N
+java:S1135à	"2Complete the task associated to this TODO comment.(‘õ°ªþÿÿÿÿ
+H
+java:S1135–
+"2Complete the task associated to this TODO comment.(Á Â*
+I
+java:S1135Î"2Complete the task associated to this TODO comment.(ì›‰´
+V
+java:S1117»":Rename "scene" which hides the field declared at line 156.(”¢°ñûÿÿÿÿ
